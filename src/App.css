@@ -40,3 +40,10 @@
 .read-the-docs {
   color: #888;
 }
+.profileImage{
+  height: 100px;
+  width: 100px;
+}
+.liked{
+  background-color: red;
+}
